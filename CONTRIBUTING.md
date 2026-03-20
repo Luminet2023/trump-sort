@@ -1,0 +1,1 @@
+Frankly, TRUMP-SORT is already the most perfect, tremendous, and advanced algorithm ever created in the history of the world, so we absolutely do not need your weak, low-energy pull requests!
