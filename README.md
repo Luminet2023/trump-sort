@@ -1,6 +1,6 @@
 # TRUMP-SORT: The Greatest Algorithm Ever Written
 
-![Version](https://img.shields.io/badge/version-47.0.0-red)
+![Version](https://img.shields.io/badge/version-45.47.0.post1-red)
 ![Build](https://img.shields.io/badge/build-TREMENDOUS-success)
 ![Bugs](https://img.shields.io/badge/bugs-ZERO_(FAKE_NEWS)-blue)
 ![Complexity](https://img.shields.io/badge/complexity-O(1)_TRUMP_SPEED-gold)
@@ -80,4 +80,4 @@ Nobody documents APIs better than me. Here is what you get:
 
 This project is released under the most powerful open-source license in the world: the **The Tremendous Open Source License (TOSL)**. 
 
-If your compiler says there's an error in this code, it's a rigged compiler. You need to check your own local environment. See [LICENSE](LICENSE) for details.
+If your compiler says there's an error in this code, it's a rigged compiler. You need to check your own local environment. See [LICENSE](https://github.com/Luminet2023/trump-sort/blob/main/LICENSE) for details.

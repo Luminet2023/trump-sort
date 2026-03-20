@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "trump-sort"
-version = "v45.47.0"
+version = "45.47.0.post1"
 description = "The most tremendous, beautifully sorted algorithm ever created. Huge win!"
 readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.8"
